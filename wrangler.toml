@@ -9,7 +9,7 @@ pages_build_output_dir = ".vercel/output/static"
 [[d1_databases]]
 binding = "DB"
 database_name = "katelyatv-db"
-database_id = "042cd107-fbfd-4e9f-bce8-82a5eb497945"
+database_id = "369421de-093a-4b3c-9952-fb4ee05ee2d0"
 migrations_dir = "migrations"
 
 [vars]
